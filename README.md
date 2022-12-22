@@ -21,6 +21,7 @@ able to select which notifications they want to see and if they blocked one chan
 ### Contact - Let's become friend
 - [Github](https://github.com/cheetahmail007)
 - [Linkedin](https://www.linkedin.com/in/abhishek-pathak-b735018b/)
+- [Medium](https://medium.com/@myofficework000)
 
 <p>
 Don't forget to star ⭐ the repo it motivates me to share more open source
