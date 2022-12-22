@@ -10,7 +10,7 @@ Customize your notifications in Android
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/cheetahmail007/NotificationsTemplatesAndroid/blob/master/app/src/main/assets/img.png" height="400" width="230" hspace="40"><img src="https://github.com/cheetahmail007/NotificationsTemplatesAndroid/blob/master/app/src/main/assets/img_1.png" height="400" width="230" hspace="40"><img src="https://github.com/cheetahmail007/NotificationsTemplatesAndroid/blob/master/app/src/main/assets/img_2.png" height="400" width="230" hspace="40">
+<img src="https://github.com/cheetahmail007/NotificationsTemplatesAndroid/blob/master/app/src/main/assets/img.png" height="350" width="250" hspace="10"><img src="https://github.com/cheetahmail007/NotificationsTemplatesAndroid/blob/master/app/src/main/assets/img_1.png" height="350" width="250" hspace="10"><img src="https://github.com/cheetahmail007/NotificationsTemplatesAndroid/blob/master/app/src/main/assets/img_2.png" height="350" width="250" hspace="10">
 
 ## Why Notification Channel?
 Channels were introduced in Oreo, and allow users to select which notifications their applications can show them. As application developers 
