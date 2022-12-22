@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotificationsDemos</string>
+    <string name="make_simple_notification">Make Simple Notification</string>
+    <string name="make_inbox_notification">Inbox Style Notification</string>
+    <string name="make_big_picture_notification">Big Picture Notification</string>
+    <string name="description_of_your_channel">Description of your channel</string>
+    <string name="welcome">Welcome to app via Notification</string>
+    <string name="your_title">Notiifcation title</string>
+    <string name="your_body">Notification Body</string>
+</resources>
